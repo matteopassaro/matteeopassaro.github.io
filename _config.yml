@@ -1,7 +1,7 @@
-title: Minimalistic
+title: Matteo Passaro
 logo: /assets/img/logo.jpg
 email: person@address.com
-description: Minimalistic is a theme powered by Jekyll.
+description: A CS Student at University of Aldo Moro, Bari and Tech enthusiast.
 favicon: true
 color-scheme: auto
 
@@ -13,10 +13,10 @@ plugins:
 platforms:
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
-    link: https://github.com/vaibhavvikas
+    link: https://github.com/matteopassaro
   - name: LinkedIn
     icon: <i class="fa-brands fa-linkedin"></i>
-    link: https://www.linkedin.com/in/vaibhavvikas
+    link: https://www.linkedin.com/in/matteo-passaro-14047a238/
 
 navigation:
   - name: Readme
